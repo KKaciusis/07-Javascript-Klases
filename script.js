@@ -1,4 +1,6 @@
 "use strict"
+/*Gal jau per ilgai prie sito sedziu, bet man galva neisnesa kaip padaryti, kad kiekvieno namo laiptiniu skaicius butu random,
+ir kad kiekviena plaiptine turetu skirtingus random butu skaicius */
 
 class Namas {
     constructor(miestas, statybosData, adresas, laiptioniuS, butuS) {
